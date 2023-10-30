@@ -3,4 +3,4 @@ This is my personal tech blogger. No longer love google blogger and move all blo
 This include my notes as a software engineer. I will be much happy if it is useful for you too.
 
 [CMake Notes](doc/About-CMake.md)  
-[gmake Notes](doc/About-gnu-make.md)
+[gmake Notes](doc/About-gnu-make.md)  
