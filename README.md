@@ -10,3 +10,5 @@ This include my notes as a software engineer. I will be much happy if it is usef
 [Cpp Best Practice](blog/Cpp--best-practice.rest.md)   
 [Perf in Peta Linux](blog/Enable-perf-in-peta-linux-build.md)    
 [Yocto Notes](blog/Yocto.md)    
+[Debug Embedded Target in VS Code](blog/GDB-Target-in-VS-Code.md)       
+
